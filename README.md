@@ -27,31 +27,6 @@ The classification task is critical for medical billing and insurance workflows,
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/khaledashrafn0/medical-code-classification-nlp.git
-   cd medical-code-classification-nlp
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the model training pipeline**
-   ```bash
-   python train.py
-   ```
-
-4. **Test classification and semantic search**
-   ```bash
-   python evaluate.py
-   ```
-
----
-
 ## 📈 Results
 
 - Best model: **TF-IDF + SVM** with **91% accuracy**
